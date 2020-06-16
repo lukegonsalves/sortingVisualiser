@@ -1,3 +1,8 @@
+# Sorting Visualiser
+Visualiser for Sorting Algorithms 
+Viewable at https://lukegonsalves.github.io/sortingVisualiser/
+Written in React by Luke Gonsalves
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
